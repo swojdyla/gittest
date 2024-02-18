@@ -15,3 +15,7 @@
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
+
+   public void przypomnijhasło() {
+        System.out.println("Kliknij na przycisk przypomnij hasło");
+    }
